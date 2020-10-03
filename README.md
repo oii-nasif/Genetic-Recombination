@@ -7,6 +7,19 @@ Recombination is the process where two DNA molecules exchange nucleotide sequenc
 
 
 
+#### PERFORMANCE COMPARISON WITH STATE - OF - THE - ART PREDICTORS
+
+|      Methods     | Sn(%) | Sp(%) |   MCC  | Acc(%) |
+|:----------------:|:-----:|:-----:|:------:|:------:|
+| iRSpot-TNCPseAAC | 76.56 | 70.99 | 0.4737 |  73.52 |
+| iRSpot-PseDNC    | 71.75 | 85.84 | 0.5830 |  79.30 |
+| IDQD             | 79.52 | 81.82 | 0.6160 |  80.77 |
+| iRSpot-ADPM      | 77.19 | 90.73 | 0.6905 |  84.57 |
+| iRSpot-SF        | 84.57 | 75.76 | 0.6941 |  84.58 |
+| iRSpot-EF        | 94.35 | 95.80 | 0.9037 |  95.14 |
+| iRSpot-CNN-1D    | 60.04 | 89.97 | 0.5345 |  76.41 |
+
+
 ### References
 **[1]** Al Maruf, Md Abdullah and Shatabda, Swakkhar, “iRSpot-SF: Prediction of recombination hotspots by incorporating sequence based features into Chou’s Pseudo components,” in Genomics, vol. 111, no. 4, pages: 966–972, Elsevier, 2019.
 
