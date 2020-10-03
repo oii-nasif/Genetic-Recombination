@@ -1,5 +1,5 @@
-# Genetic Recombinational Hotspot using Machine Learning
-## iR-Spot: Predicting sequence based recombination hotspot using CONV-1D
+## Genetic Recombinational Hotspot using Machine Learning
+### iR-Spot: Predicting sequence based recombination hotspot using CONV-1D
 ---
 
 
